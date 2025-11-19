@@ -167,5 +167,3 @@ Sugestões para aula prática:
 - Relacionar com automação industrial (CLP, IoT).
 
 ---
-
----
