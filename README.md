@@ -33,6 +33,8 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 
 ### Tabela de Botões e Funções – Programador Digital JNG
 
+<img src="display1.jpg" alt="display" style="width:20%; height:auto;">
+
 | Botão | Nome Impresso | Função Principal |
 |-------|----------------|------------------|
 | **D** | Day (Dia) | Ajusta o **dia da semana** (MO, TU, WE, TH, FR, SA, SU). |
@@ -43,6 +45,8 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 | **Prog** | Program | Entra no modo de **programação ON/OFF**, permite configurar até 16 ciclos. |
 
 ### Elementos Impressos no Painel
+
+<img src="display2.jpg" alt="display" style="width:20%; height:auto;">
 
 | Elemento | Significado |
 |----------|-------------|
