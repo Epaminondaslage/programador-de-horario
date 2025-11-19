@@ -12,9 +12,17 @@ Benefícios principais:
 - Automação regular e precisa de rotinas elétricas.
 - Segurança operacional.
 
+### Exemplos de Aplicações
+
+- Controle de iluminação interna e externa.
+- Automação de bombas d’água.
+- Sistemas de irrigação.
+- Equipamentos de ventilação/exaustão.
+- Sistemas industriais de baixa potência.
+
 ---
 
-## 2. Finalidade do Equipamento
+## 2. Operação do  Equipamento
 
 O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas que necessitam:
 - Funcionamento em horários específicos;
@@ -23,12 +31,27 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 
 <img src="fig1.png" alt="painel" style="width:15%; height:auto;">
 
-### Exemplos de Aplicações
-- Controle de iluminação interna e externa.
-- Automação de bombas d’água.
-- Sistemas de irrigação.
-- Equipamentos de ventilação/exaustão.
-- Sistemas industriais de baixa potência.
+### Tabela de Botões e Funções – Programador Digital JNG
+
+| Botão | Nome Impresso | Função Principal |
+|-------|----------------|------------------|
+| **D** | Day (Dia) | Ajusta o **dia da semana** (MO, TU, WE, TH, FR, SA, SU). |
+| **H** | Hour (Hora) | Ajusta a **hora** tanto no relógio quanto na programação ON/OFF. |
+| **Min** | Minute (Minuto) | Ajusta os **minutos** do relógio e das programações. |
+| **Manual** | Manual | Alterna entre **AUTO**, **ON** (ligado fixo) e **OFF** (desligado fixo). |
+| **C** | Clock | Usado para **configurar o relógio**, e para retornar ao modo horário. |
+| **Prog** | Program | Entra no modo de **programação ON/OFF**, permite configurar até 16 ciclos. |
+
+### Elementos Impressos no Painel
+
+| Elemento | Significado |
+|----------|-------------|
+| **MO TU WE TH FR SA SU** | Indicação dos dias da semana no display. |
+| **SUM.TIME** | Função de ajuste de Horário de Verão (nem sempre ativa). |
+| **SLEEP** | Função de economia de energia (desliga o display após inatividade). |
+| **Display LCD** | Exibe hora, ciclos ON/OFF, modo AUTO/ON/OFF e dia da semana. |
+
+
 
 ---
 
