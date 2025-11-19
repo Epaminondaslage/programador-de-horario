@@ -75,6 +75,8 @@ O TH190 opera através de:
 
 ### 5.2 Procedimento Básico  
 > Instalação deve ser realizada por profissional qualificado.
+> 
+<img src="fig3.png" alt="ligacao" style="width:50%; height:auto;">
 
 1. Desenergizar o circuito.
 2. Instalar conforme diagrama e conectar alimentação 220V.
