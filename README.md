@@ -1,5 +1,38 @@
 # Guia de Aula – Programador Horário Digital 
 
+# Sumário
+
+- [1. Introdução ao Programador Horário Digital](#1-introdução-ao-programador-horário-digital)
+  - [Exemplos de Aplicações](#exemplos-de-aplicações)
+
+- [2. Operação do Equipamento](#2-operação-do-equipamento)
+  - [Tabela de Botões e Funções](#tabela-de-botões-e-funções--programador-digital-jng)
+  - [Elementos Impressos no Painel](#elementos-impressos-no-painel)
+
+- [3. Especificações Técnicas](#3-especificações-técnicas)
+
+- [4. Funcionamento Básico](#4-funcionamento-básico)
+  - [Operações Programáveis](#operações-programáveis)
+
+- [5. Instalação e Cuidados](#5-instalação-e-cuidados)
+  - [5.1 Local de Instalação](#51-local-de-instalação)
+  - [5.2 Procedimento Básico](#52-procedimento-básico)
+
+- [6. Programação de Horário](#6-programação-de-horário)
+  - [6.1 Ajuste Inicial do Relógio](#61-ajuste-inicial-do-relógio)
+  - [6.2 Programando Horários de Ligar e Desligar](#62-programando-horários-de-ligar-e-desligar)
+    - [6.2.1 Entrar no modo de programação](#621-entrar-no-modo-de-programação)
+    - [6.2.2 Programar Horário de Ligar (1 ON)](#622-programar-o-horário-de-ligar-1-on)
+    - [6.2.3 Programar Horário de Desligar (1 OFF)](#623-programar-o-horário-de-desligar-1-off)
+    - [6.2.4 Criar Ciclos Adicionais](#624-criar-ciclos-adicionais)
+  - [6.3 Modos de Funcionamento](#63-modos-de-funcionamento)
+  - [6.4 Finalizar e Salvar](#64-finalizar-e-salvar)
+  - [6.5 Teste](#65-teste)
+  - [Exemplo Completo de Programação](#exemplo-de-programação)
+
+- [7. Aplicações Didáticas](#7-aplicações-didáticas)
+
+
 ## 1. Introdução ao Programador Horário Digital
 
 O **Programador Horário Digital TH190 (220V)** é um dispositivo utilizado para o **controle automático de cargas elétricas**, baseado em horários definidos pelo usuário. Ele automatiza rotinas de acionamento e desligamento, sem necessidade de intervenção manual. Existem versões analógicas e digitais do mesmo equipamento.
