@@ -4,6 +4,8 @@
 
 O **Programador Horário Digital TH190 (220V)** é um dispositivo utilizado para o **controle automático de cargas elétricas**, baseado em horários definidos pelo usuário. Ele automatiza rotinas de acionamento e desligamento, sem necessidade de intervenção manual.
 
+<img src="fig0.png" alt="modelos" style="width:50%; height:auto;">
+
 Benefícios principais:
 - Redução do consumo de energia.
 - Maior vida útil dos equipamentos.
