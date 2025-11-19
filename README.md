@@ -21,6 +21,8 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 - Repetição diária ou semanal;
 - Automatização de processos sem supervisão constante.
 
+<img src="fig1.png" alt="painel" style="width:40%; height:auto;">
+
 ### Exemplos de Aplicações
 - Controle de iluminação interna e externa.
 - Automação de bombas d’água.
@@ -41,6 +43,7 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 | **Instalação**                 | Painéis elétricos / caixas de comando      |
 | **Aplicações**                 | Iluminação, bombas e sistemas de automação |
 
+<img src="tab1.png" alt="modelos" style="width:40%; height:auto;">
 
 > Observação: utilizar conforme normas aplicáveis, como **NBR 5410**.
 
@@ -62,6 +65,8 @@ O TH190 opera através de:
 ---
 
 ## 5. Instalação e Cuidados
+
+<img src="fig2.png" alt="ligacao" style="width:40%; height:auto;">
 
 ### 5.1 Local de Instalação  
 - Painéis elétricos, quadros de comando ou caixas de distribuição.  
