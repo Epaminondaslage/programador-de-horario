@@ -1,6 +1,6 @@
 ## CEFET-MG
 ## DEE- CURSO DE ELETROTÉCNICA
-## PIELP
+## PLIEP
 ## Guia de Aula – Programador Horário Digital 
 
 Os programadores horários digitais são dispositivos fundamentais em sistemas de automação residencial, comercial e industrial. Eles permitem o **acionamento e desligamento automático de cargas elétricas** com base em horários definidos pelo usuário, garantindo maior eficiência, economia de energia e segurança operacional.
