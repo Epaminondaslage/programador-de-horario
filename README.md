@@ -87,15 +87,74 @@ O TH190 opera através de:
 
 ---
 
-## 6. Programação – Visão Geral
+## 6. Programação – `Horário 
 
-1. Ajustar data e hora.
-2. Inserir programação de eventos:
-   - Horário ON;
-   - Horário OFF;
-   - Dias de repetição.
-3. Testar o relé manualmente.
-4. Validar e revisar a programação.
+## 🕒 6.1. Ajuste Inicial do Relógio
+
+Antes de programar os ciclos ON/OFF, configure o horário interno.
+
+1. Pressione e segure **CLOCK**.  
+2. Mantendo CLOCK pressionado:
+   - Ajuste a **hora** com o botão **HOUR**.  
+   - Ajuste os **minutos** com **MINUTE**.  
+   - Ajuste o **dia da semana** com **WEEK**.  
+3. Solte **CLOCK**.
+
+## ⏱️ 6.2. Programando Horários de Ligar e Desligar
+
+Cada ciclo é formado por:
+- **ON** → Horário em que o equipamento liga  
+- **OFF** → Horário em que o equipamento desliga  
+
+O TH190 aceita até **16 ciclos**.
+
+### ▶️ 6.2.1 Entrar no modo de programação
+
+Pressione **PROG** até aparecer:
+
+```
+1 ON
+```
+
+### 🔧 6.2.2 Programar o horário de LIGAR (1 ON)
+
+Use os botões:
+- **HOUR**
+- **MINUTE**
+- **WEEK**
+
+### 🔧 6.2.3 Programar o horário de DESLIGAR (1 OFF)
+
+Pressione **PROG** novamente e ajuste.
+
+### ➕ 6.2.4 Criar ciclos adicionais
+
+Continue pressionando **PROG** para acessar novos ciclos.
+
+## 🔄 6.3. Modos de Funcionamento
+
+- **AUTO**
+- **ON**
+- **OFF**
+
+Use **AUTO** para executar a programação.
+
+## ✔️ 6.4. Finalizar e Salvar
+
+Pressione **CLOCK** para retornar ao relógio.
+
+## 🧪 6.5. Teste
+
+Deixe em AUTO e aguarde o horário programado.
+
+## 📘 Exemplo de Programação
+
+Ligar às 18:00 e desligar às 23:00.
+
+1. PROG → 1 ON  
+2. PROG → 1 OFF  
+3. CLOCK → sair  
+4. MANUAL → AUTO
 
 ---
 
