@@ -1,6 +1,9 @@
-## CEFET-MG
-## DEE- CURSO DE ELETROTÉCNICA
-## PLIEP
+<td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="10%" /></td>
+## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
+
+## 📘 Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
 ## Guia de Aula – Programador Horário Digital 
 
 Os programadores horários digitais são dispositivos fundamentais em sistemas de automação residencial, comercial e industrial. Eles permitem o **acionamento e desligamento automático de cargas elétricas** com base em horários definidos pelo usuário, garantindo maior eficiência, economia de energia e segurança operacional.
