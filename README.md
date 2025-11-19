@@ -87,7 +87,7 @@ O TH190 opera através de:
 
 ---
 
-## 6. Programação – `Horário 
+## 6. Programação de Horário 
 
 ## 🕒 6.1. Ajuste Inicial do Relógio
 
