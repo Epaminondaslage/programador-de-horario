@@ -21,7 +21,7 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 - Repetição diária ou semanal;
 - Automatização de processos sem supervisão constante.
 
-<img src="fig1.png" alt="painel" style="width:25%; height:auto;">
+<img src="fig1.png" alt="painel" style="width:15%; height:auto;">
 
 ### Exemplos de Aplicações
 - Controle de iluminação interna e externa.
