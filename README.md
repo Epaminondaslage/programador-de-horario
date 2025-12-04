@@ -49,7 +49,7 @@ Os programadores horários digitais são dispositivos fundamentais em sistemas d
 
 O **Programador Horário Digital TH190 (220V)** é um dispositivo utilizado para o **controle automático de cargas elétricas**, baseado em horários definidos pelo usuário. Ele automatiza rotinas de acionamento e desligamento, sem necessidade de intervenção manual. Existem versões analógicas e digitais do mesmo equipamento.
 
-<img src="fig0.png" alt="modelos" style="width:25%; height:auto;">
+<img src="img/fig0.png" alt="modelos" style="width:25%; height:auto;">
 
 Benefícios principais:
 - Redução do consumo de energia.
@@ -74,11 +74,11 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 - Repetição diária ou semanal;
 - Automatização de processos sem supervisão constante.
 
-<img src="fig1.png" alt="painel" style="width:15%; height:auto;">
+<img src="img/fig1.png" alt="painel" style="width:15%; height:auto;">
 
 ### Tabela de Botões e Funções – Programador Digital JNG
 
-<img src="display1.jpg" alt="display" style="width:20%; height:auto;">
+<img src="img/display1.jpg" alt="display" style="width:20%; height:auto;">
 
 | Botão | Nome Impresso | Função Principal |
 |-------|----------------|------------------|
@@ -91,7 +91,7 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 
 ### Elementos Impressos no Painel
 
-<img src="display2.jpg" alt="display" style="width:20%; height:auto;">
+<img src="img/display2.jpg" alt="display" style="width:20%; height:auto;">
 
 | Elemento | Significado |
 |----------|-------------|
@@ -115,7 +115,7 @@ O TH190 executa **ciclos programados de liga/desliga**, sendo útil em sistemas 
 | **Instalação**                 | Painéis elétricos / caixas de comando      |
 | **Aplicações**                 | Iluminação, bombas e sistemas de automação |
 
-<img src="tab1.png" alt="modelos" style="width:40%; height:auto;">
+<img src="img/tab1.png" alt="modelos" style="width:40%; height:auto;">
 
 > Observação: utilizar conforme normas aplicáveis, como **NBR 5410**.
 
@@ -138,7 +138,7 @@ O TH190 opera através de:
 
 ## 5. Instalação e Cuidados
 
-<img src="fig2.png" alt="ligacao" style="width:50%; height:auto;">
+<img src="img/fig2.png" alt="ligacao" style="width:50%; height:auto;">
 
 ### 5.1 Local de Instalação  
 - Painéis elétricos, quadros de comando ou caixas de distribuição.  
@@ -148,7 +148,7 @@ O TH190 opera através de:
 ### 5.2 Procedimento Básico  
 > Instalação deve ser realizada por profissional qualificado.
 > 
-<img src="fig3.png" alt="ligacao" style="width:50%; height:auto;">
+<img src="img/fig3.png" alt="ligacao" style="width:50%; height:auto;">
 
 1. Desenergizar o circuito.
 2. Instalar conforme diagrama e conectar alimentação 220V.
